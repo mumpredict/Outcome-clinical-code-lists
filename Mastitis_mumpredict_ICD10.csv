@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O91","Infections of breast associated with childbirth","O91","","ICD10"
+"O910","Infection of nipple associated with childbirth","O91.0","","ICD10"
+"O911","Abscess of breast associated with childbirth","O91.1","","ICD10"
+"O912","Nonpurulent mastitis associated with childbirth","O91.2","","ICD10"

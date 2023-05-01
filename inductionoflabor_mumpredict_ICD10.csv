@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O61","Failed induction of labour","O61","","ICD10"
+"O610","Failed medical induction of labour","O61.0","","ICD10"
+"O611","Failed instrumental induction of labour","O61.1","","ICD10"
+"O618","Other failed induction of labour","O61.8","","ICD10"
+"O619","Failed induction of labour, unspecified","O61.9","","ICD10"
