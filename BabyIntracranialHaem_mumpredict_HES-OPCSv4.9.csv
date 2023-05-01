@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"A053","Evacuation of haematoma from cerebellum","A05.3","","HES-OPCSv4.9"
+"A054","Evacuation of intracerebral haematoma NEC","A05.4","","HES-OPCSv4.9"
+"A401","Evacuation of extradural haematoma","A40.1","","HES-OPCSv4.9"
+"A411","Evacuation of subdural haematoma","A41.1","","HES-OPCSv4.9"
