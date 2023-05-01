@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"P14","Birth injury to peripheral nervous system","P14","","ICD10"
+"P140","Erb paralysis due to birth injury","P14.0","","ICD10"
+"P141","Klumpke paralysis due to birth injury","P14.1","","ICD10"
+"P142","Phrenic nerve paralysis due to birth injury","P14.2","","ICD10"
+"P143","Other brachial plexus birth injuries","P14.3","","ICD10"
+"P148","Birth injuries to other parts of peripheral nervous system","P14.8","","ICD10"
+"P149","Birth injury to peripheral nervous system, unspecified","P14.9","","ICD10"
