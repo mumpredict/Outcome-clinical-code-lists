@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O740","Aspiration pneumonitis due to anaesthesia during labour and delivery","O74.0","","ICD10"
+"O741","Other pulmonary complications of anaesthesia during labour and delivery","O74.1","","ICD10"
+"O742","Cardiac complications of anaesthesia during labour and delivery","O74.2","","ICD10"
+"O743","Central nervous system complications of anaesthesia during labour and delivery","O74.3","","ICD10"
+"O890","Pulmonary complications of anaesthesia during the puerperium","O89.0","","ICD10"
+"O891","Cardiac complications of anaesthesia during the puerperium","O89.1","","ICD10"
+"O892","Central nervous system complications of anaesthesia during the puerperium","O89.2","","ICD10"
