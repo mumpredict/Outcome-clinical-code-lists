@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"13297","Neonatal hypoglycaemia","Q447.00","","CPRD_GOLD"
+"55492","Iatrogenic neonatal hypoglycaemia","Q447000","","CPRD_GOLD"
+"72975","[X]Other neonatal hypoglycaemia","Qyu6000","","CPRD_GOLD"

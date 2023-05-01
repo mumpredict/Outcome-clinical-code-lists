@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"P044","Fetus and newborn affected by maternal use of drugs of addiction","P04.4","","ICD10"
+"P961","Neonatal withdrawal symptoms from maternal use of drugs of addiction","P96.1","","ICD10"
+"P962","Withdrawal symptoms from therapeutic use of drugs in newborn","P96.2","","ICD10"

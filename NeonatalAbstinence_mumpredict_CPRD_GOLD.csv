@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"26686","Neonatal Abstinence Syndrome","Q485200","","CPRD_GOLD"
+"30311","Neonat withdrawal symptom from mat use of drug of addiction","Q485000","","CPRD_GOLD"
+"34504","Newborn drug withdrawal syndrome","Q485.00","","CPRD_GOLD"
+"40867","Withdrawal symptoms from therapeutic use of drugs in newborn","Q485100","","CPRD_GOLD"
+"64430","Fetus/neonate affected-plac./breast transfer addictive drug","Q007C00","","CPRD_GOLD"

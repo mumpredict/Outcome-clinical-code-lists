@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"234701000006118","Perinatal necrotising enterocolitis","Q464.00","397729009","CPRD_AURUM"
+"6591871000006115","Perinatal necrotizing enterocolitis","","397729009","CPRD_AURUM"
+"8258351000006119","Necrotising enterocolitis","","805601000000103","CPRD_AURUM"
+"2542011000006117","Necrotising enterocolitis","","2707005","CPRD_AURUM"
+"4838411000006119","Neonatal necrotising enterocolitis","","206525008","CPRD_AURUM"

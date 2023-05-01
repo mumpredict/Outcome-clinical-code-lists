@@ -1,0 +1,3 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"P703","Iatrogenic neonatal hypoglycaemia","P70.3","","ICD10"
+"P704","Other neonatal hypoglycaemia","P70.4","","ICD10"
