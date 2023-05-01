@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"31452","Kernicterus due to isoimmunisation","Q424.00","","CPRD_GOLD"
+"47802","Bilirubin encephalopathy","Q437000","","CPRD_GOLD"
+"48012","Kernicterus not due to isoimmunisation","Q437.00","","CPRD_GOLD"
+"61800","Kernicterus of newborn NOS","Q437z00","","CPRD_GOLD"

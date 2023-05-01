@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"T884","Failed or difficult intubation","T88.4","","ICD10"
+"Y653","Endotracheal tube wrongly placed during anaesthetic procedure","Y65.3","","ICD10"
+"Z991","Dependence on respirator","Z99.1","","ICD10"

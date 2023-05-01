@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"P57","Kernicterus","P57","","ICD10"
+"P570","Kernicterus due to isoimmunization","P57.0","","ICD10"
+"P578","Other specified kernicterus","P57.8","","ICD10"
+"P579","Kernicterus, unspecified","P57.9","","ICD10"

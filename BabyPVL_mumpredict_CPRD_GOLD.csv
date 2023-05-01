@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"19007","Periventricular leucomalacia","Q48E.00","","CPRD_GOLD"
+"48202","Neonatal cerebral leukomalacia","Q48A.00","","CPRD_GOLD"
+"50554","Periventricular leukomalacia","Q48E.11","","CPRD_GOLD"
+"108714","SCPE classif predominnt patt B.1 periventriculr leucomalacia","2Ba1000","","CPRD_GOLD"
