@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O411","Infection of amniotic sac and membranes","O41.1","","ICD10"
+"P027","Fetus and newborn affected by chorioamnionitis","P02.7","","ICD10"
+"P392","Intra-amniotic infection of fetus, not elsewhere classified","P39.2","","ICD10"

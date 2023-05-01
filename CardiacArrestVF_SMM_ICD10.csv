@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"I46","Cardiac arrest","I46","","ICD10"
+"I460","Cardiac arrest with successful resuscitation","I46.0","","ICD10"
+"I469","Cardiac arrest, unspecified","I46.9","","ICD10"
+"I490","Ventricular fibrillation and flutter","I49.0","","ICD10"

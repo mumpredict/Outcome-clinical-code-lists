@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"K624","Percutaneous transluminal internal cardioversion NEC","K62.4","","HES-OPCSv4.9"
+"X501","Direct current cardioversion","X50.1","","HES-OPCSv4.9"
+"X502","External cardioversion NEC","X50.2","","HES-OPCSv4.9"
+"X504","External ventricular defibrillation","X50.4","","HES-OPCSv4.9"
