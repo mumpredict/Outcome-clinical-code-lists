@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"N17","Acute renal failure","N17","","ICD10"
+"N170","Acute renal failure with tubular necrosis","N17.0","","ICD10"
+"N171","Acute renal failure with acute cortical necrosis","N17.1","","ICD10"
+"N172","Acute renal failure with medullary necrosis","N17.2","","ICD10"
+"N178","Other acute renal failure","N17.8","","ICD10"
+"N179","Acute renal failure, unspecified","N17.9","","ICD10"
+"O904","Postpartum acute renal failure","O90.4","","ICD10"

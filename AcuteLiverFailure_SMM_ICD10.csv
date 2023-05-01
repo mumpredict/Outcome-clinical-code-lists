@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"K72","Hepatic failure, not elsewhere classified","K72","","ICD10"
+"K720","Acute and subacute hepatic failure","K72.0","","ICD10"
+"K729","Hepatic failure, unspecified","K72.9","","ICD10"
+"O266","Liver disorders in pregnancy, childbirth and the puerperium","O26.6","","ICD10"

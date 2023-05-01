@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"N71","Inflammatory disease of uterus, except cervix","N71","","ICD10"
+"N710","Acute inflammatory disease of uterus","N71.0","","ICD10"
+"N719","Inflammatory disease of uterus, unspecified","N71.9","","ICD10"
