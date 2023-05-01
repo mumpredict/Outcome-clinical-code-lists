@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"4836961000006113","MAS - Meconium aspiration syndrome","","206292002","CPRD_AURUM"
+"316325016","Meconium aspiration syndrome","Q311000","206292002","CPRD_AURUM"
+"5619321000006117","Neonatal aspiration of meconium","","278927005","CPRD_AURUM"
