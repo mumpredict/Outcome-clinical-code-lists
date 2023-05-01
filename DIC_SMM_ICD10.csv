@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"D65X","Disseminated intravascular coagulation [defibrination syndrome]","D65","","ICD10"
+"D688","Other specified coagulation defects","D68.8","","ICD10"
+"D689","Coagulation defect, unspecified","D68.9","","ICD10"
+"O723","Postpartum coagulation defects","O72.3","","ICD10"
