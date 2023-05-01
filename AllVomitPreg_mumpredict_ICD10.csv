@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"J690","Pneumonitis due to food and vomit","J69.0","","ICD10"
+"K920","Haematemesis","K92.0","","ICD10"
+"O21","Excessive vomiting in pregnancy","O21","","ICD10"
+"O212","Late vomiting of pregnancy","O21.2","","ICD10"
+"O218","Other vomiting complicating pregnancy","O21.8","","ICD10"
+"O219","Vomiting of pregnancy, unspecified","O21.9","","ICD10"
+"R11X","Nausea and vomiting","R11","","ICD10"
