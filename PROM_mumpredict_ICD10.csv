@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O42","Premature rupture of membranes","O42","","ICD10"
+"O420","Premature rupture of membranes, onset of labour within 24 hours","O42.0","","ICD10"
+"O421","Premature rupture of membranes, onset of labour after 24 hours","O42.1","","ICD10"
+"O422","Premature rupture of membranes, labour delayed by therapy","O42.2","","ICD10"
+"O429","Premature rupture of membranes, unspecified","O42.9","","ICD10"
+"P011","Fetus and newborn affected by premature rupture of membranes","P01.1","","ICD10"
