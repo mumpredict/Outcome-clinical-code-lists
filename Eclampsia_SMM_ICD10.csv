@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O15","Eclampsia","O15","","ICD10"
+"O150","Eclampsia in pregnancy","O15.0","","ICD10"
+"O151","Eclampsia in labour","O15.1","","ICD10"
+"O152","Eclampsia in the puerperium","O15.2","","ICD10"
+"O159","Eclampsia, unspecified as to time period","O15.9","","ICD10"
