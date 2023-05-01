@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"I50","Heart failure","I50","","ICD10"
+"I500","Congestive heart failure","I50.0","","ICD10"
+"I501","Left ventricular failure","I50.1","","ICD10"
+"I509","Heart failure, unspecified","I50.9","","ICD10"

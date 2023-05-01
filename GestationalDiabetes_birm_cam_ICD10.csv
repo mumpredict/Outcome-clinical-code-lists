@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O24","Diabetes mellitus in pregnancy","O24","","ICD10"
+"O244","Diabetes mellitus arising in pregnancy","O24.4","","ICD10"
+"O249","Diabetes mellitus in pregnancy, unspecified","O24.9","","ICD10"

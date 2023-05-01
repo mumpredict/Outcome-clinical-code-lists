@@ -1,0 +1,3 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O210","Mild hyperemesis gravidarum","O21.0","","ICD10"
+"O211","Hyperemesis gravidarum with metabolic disturbance","O21.1","","ICD10"

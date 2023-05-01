@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"1956641000006116","Keele ENHANCE trial- anxiety/dep - refer to IAPT programme","","1956641000006100","CPRD_AURUM"
+"1704111000006118","Referral to improving access to psychological therapies prog","8HkK.00","380201000000109","CPRD_AURUM"
+"1987231000006119","IAPT (Improvin Acces Psych Therapies) high intensity therapy","","1026131000000100","CPRD_AURUM"
+"8124361000006111","Referral to IAPT (improving access to psychological therapies) programme","","380201000000109","CPRD_AURUM"
+"2652271000000116","Signposting to IAPT (Improving Access to Psychological Therapies) service","","1053791000000108","CPRD_AURUM"
+"1987221000006117","IAPT (Improvin Access Psych Therapies) low intensity therapy","","1026111000000108","CPRD_AURUM"
+"1987291000006115","Self-referral to IAPT (Imp Access to Psych Therapies) prog","","1036481000000106","CPRD_AURUM"
