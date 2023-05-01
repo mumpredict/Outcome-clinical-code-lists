@@ -1,0 +1,3 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"G931","Anoxic brain damage, not elsewhere classified","G93.1","","ICD10"
+"P916","Hypoxic ischaemic encephalopathy of newborn","P91.6","","ICD10"
