@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"353610019","Cholestasis of pregnancy","L18A000","235888006","CPRD_AURUM"
+"994321000006117","Cholestasis of pregnancy","","994321000006101","CPRD_AURUM"
+"5086931000006119","Recurrent intrahepatic cholestasis of pregnancy","","235888006","CPRD_AURUM"
+"5086911000006113","Intrahepatic cholestasis of pregnancy","","235888006","CPRD_AURUM"
+"5086891000006111","Obstetric cholestasis","","235888006","CPRD_AURUM"
+"5086901000006110","RICP","","235888006","CPRD_AURUM"
+"5086921000006117","Recurrent jaundice of pregnancy","","235888006","CPRD_AURUM"
