@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"4171","[X]Post - traumatic stress disorder","Eu43100","","CPRD_GOLD"
+"32182","[X]Traumatic neurosis","Eu43111","","CPRD_GOLD"
+"32387","Other post-traumatic stress disorder","E29y100","","CPRD_GOLD"

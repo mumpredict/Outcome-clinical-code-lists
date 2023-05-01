@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"2538152019","Retrolental fibroplasia","F422000","415297005","CPRD_AURUM"
+"6873371000006117","RLF - Retrolental fibroplasia","","415297005","CPRD_AURUM"
+"2535575018","Retinopathy of prematurity","F422011","415297005","CPRD_AURUM"
+"6873381000006119","ROP - Retinopathy of prematurity","","415297005","CPRD_AURUM"
+"6873401000006119","Terry's syndrome","","415297005","CPRD_AURUM"
+"8038781000006115","Retinopathy of prematurity stage 0","","124111000119102","CPRD_AURUM"
