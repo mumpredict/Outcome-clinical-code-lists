@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"18407","Shoulder dystocia","L305.00","","CPRD_GOLD"
+"44401","Shoulder dystocia with antenatal problem","L305200","","CPRD_GOLD"
+"50676","Shoulder dystocia - delivered","L305100","","CPRD_GOLD"
+"53321","Impacted shoulders","L305.11","","CPRD_GOLD"
+"69414","Shoulder dystocia NOS","L305z00","","CPRD_GOLD"
+"82919","","L3059D","","CPRD_GOLD"
+"95031","Shoulder dystocia unspecified","L305000","","CPRD_GOLD"

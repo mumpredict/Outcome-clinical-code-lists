@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"Z371","Single stillbirth","Z37.1","","ICD10"
+"Z373","Twins, one liveborn and one stillborn","Z37.3","","ICD10"
+"Z374","Twins, both stillborn","Z37.4","","ICD10"
+"Z377","Other multiple births, all stillborn","Z37.7","","ICD10"

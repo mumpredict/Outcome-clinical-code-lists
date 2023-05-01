@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"G41","Status epilepticus","G41","","ICD10"
+"G410","Grand mal status epilepticus","G41.0","","ICD10"
+"G411","Petit mal status epilepticus","G41.1","","ICD10"
+"G412","Complex partial status epilepticus","G41.2","","ICD10"
+"G418","Other status epilepticus","G41.8","","ICD10"
+"G419","Status epilepticus, unspecified","G41.9","","ICD10"
