@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"O365","Maternal care for poor fetal growth","O36.5","","ICD10"
+"P05","Slow fetal growth and fetal malnutrition","P05","","ICD10"
+"P059","Slow fetal growth, unspecified","P05.9","","ICD10"

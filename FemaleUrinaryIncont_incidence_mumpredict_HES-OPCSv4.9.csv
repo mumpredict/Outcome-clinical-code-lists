@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"M523","Colposuspension of neck of bladder","M52.3","","HES-OPCSv4.9"
+"M556","Insertion of retropubic device for female stress urinary incontinence NEC","M55.6","","HES-OPCSv4.9"
+"M647","Introduction of transobturator sling","M64.7","","HES-OPCSv4.9"
