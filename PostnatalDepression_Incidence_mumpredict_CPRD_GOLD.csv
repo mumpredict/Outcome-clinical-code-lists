@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"2639","Postnatal depression","E204.11","","CPRD_GOLD"
+"2923","Puerperal depression","62T1.00","","CPRD_GOLD"
+"4979","[X]Postpartum depression NOS","Eu53012","","CPRD_GOLD"
+"13307","[X]Postnatal depression NOS","Eu53011","","CPRD_GOLD"
+"18702","Postnatal depression counselling","6G00.00","","CPRD_GOLD"
