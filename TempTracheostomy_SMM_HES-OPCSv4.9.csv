@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"E42","Exteriorisation of trachea","E42","","HES-OPCSv4.9"
+"E423","Temporary tracheostomy","E42.3","","HES-OPCSv4.9"
+"E428","Other specified exteriorisation of trachea","E42.8","","HES-OPCSv4.9"
+"E429","Unspecified exteriorisation of trachea","E42.9","","HES-OPCSv4.9"

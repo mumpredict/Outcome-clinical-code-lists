@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"57408","Early selective feticide","7F02000","","CPRD_GOLD"
+"64418","Selective feticide NEC","7F02200","","CPRD_GOLD"
+"66377","Late selective feticide","7F02100","","CPRD_GOLD"
+"102635","Pregnancy termination care","8Cg..00","","CPRD_GOLD"
