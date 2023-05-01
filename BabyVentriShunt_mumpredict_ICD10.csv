@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"G972","Intracranial hypotension following ventricular shunting","G97.2","","ICD10"
+"T850","Mechanical complication of ventricular intracranial (communicating) shunt","T85.0","","ICD10"
+"Z982","Presence of cerebrospinal fluid drainage device","Z98.2","","ICD10"
